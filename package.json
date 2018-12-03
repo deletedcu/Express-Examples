@@ -1,0 +1,22 @@
+{
+  "name": "express-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://webguru001@github.com/webguru001/Express-Examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webguru001/Express-Examples/issues"
+  },
+  "homepage": "https://github.com/webguru001/Express-Examples#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
